@@ -1,4 +1,4 @@
 # demo
 this is my first repo
-author;swami
+author;swami bhagwat
 <h1>swami</h1>
